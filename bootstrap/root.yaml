@@ -21,7 +21,7 @@ spec:
   project: default
   source:
     path: projects
-    repoURL: https://github.com/polinchw/auto-pilot.git
+    repoURL: https://github.com/Hallonbat/auto-pilot.git
   syncPolicy:
     automated:
       allowEmpty: true

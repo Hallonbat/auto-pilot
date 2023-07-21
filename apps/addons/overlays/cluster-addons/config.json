@@ -4,7 +4,7 @@
   "destNamespace": "argocd",
   "destServer": "https://kubernetes.default.svc",
   "srcPath": "apps/addons/overlays/cluster-addons",
-  "srcRepoURL": "https://github.com/polinchw/auto-pilot.git",
+  "srcRepoURL": "https://github.com/Hallonbat/auto-pilot.git",
   "srcTargetRevision": "",
   "labels": null,
   "annotations": null

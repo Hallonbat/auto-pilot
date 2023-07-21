@@ -6,7 +6,7 @@ metadata:
 spec:
   generators:
   - git:
-      repoURL: https://github.com/Halloonbat/cluster-addons.git
+      repoURL: https://github.com/Hallonbat/cluster-addons.git
       revision: HEAD
       directories:
       - path: addons/*

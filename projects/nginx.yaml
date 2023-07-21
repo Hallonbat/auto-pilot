@@ -37,7 +37,7 @@ spec:
   - git:
       files:
       - path: apps/**/nginx/config.json
-      repoURL: https://github.com/polinchw/auto-pilot.git
+      repoURL: https://github.com/Hallonbat/auto-pilot.git
       requeueAfterSeconds: 20
       revision: ""
       template:
@@ -50,7 +50,7 @@ spec:
   - git:
       files:
       - path: apps/**/nginx/config_dir.json
-      repoURL: https://github.com/polinchw/auto-pilot.git
+      repoURL: https://github.com/Hallonbat/auto-pilot.git
       requeueAfterSeconds: 20
       revision: ""
       template:
